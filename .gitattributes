@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+# Treat CAD files as binary
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
