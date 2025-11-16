@@ -1,0 +1,15 @@
+# SolidWorks artifacts
+*.SLDASM
+*.SLDPRT
+*.SLDDRW
+*.sld*
+*.bak
+*.log
+
+# Backup and temp
+*~
+*.tmp
+
+# IDE folders
+.vscode/
+.idea/
